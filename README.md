@@ -1,19 +1,24 @@
 ## Jake Pilikian
 
-A patient, self-motivated, honest and passionate person. I am often known by my friends and coworkers as an innovative, creative and knowledgable person with acute attention to detail. I love photography, music, film, physics, philosophy, tech, and most of all, video games. Some of my hobbies include building computers, writing short stories, reviewing video games and tech and collecting rare video game merchandise. I am also active and enjoy basketball, tennis and hiking. Currently working in the tech industry.
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A patient, self-motivated, honest and passionate person. I am often known by my friends and coworkers as an innovative, creative and knowledgable person with acute attention to detail. I love photography, music, film, physics, philosophy, tech, and most of all, video games. Some of my hobbies include building computers, writing short stories and making video games. I am also active and enjoy basketball, tennis and hiking. 
+
+As a recent graduate from Makers, I have learnt a number of different tech stacks including Ruby and JavaScript, working in agile teams with a focus on TDD, and ultimately, the ability to learn anything.
+
+What excites me most about tech is that anything is possible. I love tuning into events like the Consumer Electronics Show (CES) to see how comapnies have innovated and developed tech, particularly in TVs, PCs, video cameras, virtual reality and sound systems.
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Teamwork & Communication
 
-- Experience
+- Throughout my experience at Makers, I've been pair programming and working in agile teams on a daily basis
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Innovation & Creativity
+
+#### Growth Mindset & Learning
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,11 +38,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Anglia Ruskin University (2010 - 2012)
 
-- Studied Psychology for two years
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Studied Psychology for two years.
+- President for two societies which included organising events and hosting team meetings.
 
 ## Experience
 

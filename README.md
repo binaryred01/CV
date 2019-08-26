@@ -23,18 +23,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 - August 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Anglia Ruskin University (2010 - 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Studied Psychology for two years
 
 #### Any other qualifications
 
@@ -42,12 +40,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Apple** (March 2014 to June 2018)    
+*Specialist*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Vend** (July 2018 to December 2018)   
+*Technical Support*  
 - Any experience relevent to software development
 
 ## Hobbies

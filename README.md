@@ -1,5 +1,6 @@
 ## Jake Pilikian
 
+A patient, self-motivated, honest and passionate person. I am often known by my friends and coworkers as an innovative, creative and knowledgable person with acute attention to detail. I love photography, music, film, physics, philosophy, tech, and most of all, video games. Some of my hobbies include building computers, writing short stories, reviewing video games and tech and collecting rare video game merchandise. I am also active and enjoy basketball, tennis and hiking. Currently working in the tech industry.
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills

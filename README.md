@@ -12,24 +12,17 @@ What excites me most about tech is that anything is possible. I love tuning into
 
 Throughout my career in Apple and my experience at Makers, one of my best skills has been my ability to communicate effectively and honestly with my peers. I have further honed my communication skills at Makers through pair programming and working in agile teams on a daily basis by leading stand ups, retros and holding feedback sessions with my peers.
 
-#### Innovation & Creativity
+#### Innovation, Creativity & Learning
 
+As someone who loves video games, I knew I wanted to make a mobile game for my final project. It also had to feature dragons and pirates which are two of my favourite themes in a game. I immadiately began to look at the games I play regularly on my phone. I thought about what I loved about them and what made them fun to play and began to draft my user stories. I also discovered that most of them were build using the Unity engine and programmed using C# scripts. In just two weeks, I was able to learn an entirely new tech stack and build my first video game. It is with great pleasure that I can now announce that my two week final project Dragons of the Caribbean will be coming soon to a mobile app store near you!
 
-
-#### Growth Mindset & Learning
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+https://github.com/carlfjones/DragonPirates
 
 ## Experience
 
 **Apple** (March 2014 to June 2018)    
 *Specialist*  
-- Occasionally supported Apple's [Swift Playgrounds] (https://www.apple.com/uk/swift/playgrounds/) workshops.
+- Occasionally supported Apple's [Swift Playgrounds workshops] (https://www.apple.com/uk/swift/playgrounds/)
 
 **Vend** (July 2018 to December 2018)   
 *Technical Support*  

@@ -22,7 +22,7 @@ https://github.com/carlfjones/DragonPirates
 
 **Apple** (March 2014 to June 2018)    
 *Specialist*  
-- Occasionally supported Apple's [Swift Playgrounds workshops] (https://www.apple.com/uk/swift/playgrounds/)
+- Occasionally supported Apple's [Swift Playgrounds workshops] [https://www.apple.com/uk/swift/playgrounds/]
 
 **Vend** (July 2018 to December 2018)   
 *Technical Support*  

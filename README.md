@@ -8,15 +8,13 @@ What excites me most about tech is that anything is possible. I love tuning into
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Teamwork & Communication
 
-- Throughout my experience at Makers, I've been pair programming and working in agile teams on a daily basis
-- Achievements
-- Evidence
+Throughout my career in Apple and my experience at Makers, one of my best skills has been my ability to communicate effectively and honestly with my peers. I have further honed my communication skills at Makers through pair programming and working in agile teams on a daily basis by leading stand ups, retros and holding feedback sessions with my peers.
 
 #### Innovation & Creativity
+
+
 
 #### Growth Mindset & Learning
 
@@ -26,6 +24,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Experience
+
+**Apple** (March 2014 to June 2018)    
+*Specialist*  
+- Occasionally supported Apple's [Swift Playgrounds] (https://www.apple.com/uk/swift/playgrounds/) workshops.
+
+**Vend** (July 2018 to December 2018)   
+*Technical Support*  
+- During my time at Vend I would always read the weekly newsletter written by the engineers and communicate with them over Slack about how new features would be implemented.
 
 ## Education
 
@@ -41,16 +49,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Studied Psychology for two years.
 - President for two societies which included organising events and hosting team meetings.
 
-## Experience
-
-**Apple** (March 2014 to June 2018)    
-*Specialist*  
-- Any experience relevent to software development
-
-**Vend** (July 2018 to December 2018)   
-*Technical Support*  
-- Any experience relevent to software development
-
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love competitive gaming! Although adopting the growth mindset has been great for coding, it's also really helped me when competing in esports. Learning through defeat is one of the most powerful techniques one can use in order to improve.

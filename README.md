@@ -26,7 +26,7 @@ As someone who loves video games, I knew I wanted to make a mobile game for my f
 *Technical Support*  
 - During my time at Vend, I would always read the weekly newsletter written by the engineers and communicate with them over Slack about how new features would be implemented.
 
-**Makers** (August 2019 to Present)
+**Makers** (August 2019 to Present) 
 *Public Speaking & Events Organisation*
 - Starting a new career as a software developer is both exciting and challenging. When I'm not working on projects in my spare time, I support the events team at Makers. This includes helping the team to stay organised by sticking to a schedule and making guests feel welcome. I also take part in a monthly Q&A panel where potential students may ask me questions about my journey as a software developer with Makers. This allows me to network with people while continuing to develop my public speaking skills.
 
